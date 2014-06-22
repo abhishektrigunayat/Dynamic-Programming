@@ -1,4 +1,1 @@
-Implemented the following intelligent agents in Artificial Intelligence using the Myro library for programming the Scribbler robot in Python.
-1. Model-based reflex agent
-2. Goal-based reflex agent
-3. Utility-based reflex agent
+Implementation of algorithms using the techniques of dynamic programming in Java. These include Subset Sum, removal of characters from a string to make it palindrome, Longest Common Subsequence, Most expensive path in DAG and few more homework problems.
